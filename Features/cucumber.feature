@@ -8,4 +8,4 @@ Scenario Outline: login with credentials
 	
 	Examples: 
 		|username|password|
-		|sj4udj@gmail.com|$rinubilla.25$$|
+		|abc@gmail.com|asdv|
